@@ -6,3 +6,5 @@ Buttons added to games area and classed defined
 Question area set up and placeholders added
 Css added using source code provided. Data-types set on buttons.
 HTML and CSS complete. Started javascript. Each function should have one main task. Atomic.Single responsibility principle. 
+Set up structure for games functions. 
+Event listeners added to function elements. 
