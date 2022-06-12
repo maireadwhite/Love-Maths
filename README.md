@@ -2,3 +2,5 @@
 12/06/22 links to css and js created and tested
 """ links to fontawesome and google fontstyle added. Copied those supplied to save time
 "" empty higher level elements added , will add content later
+Buttons added to games area and classed defined
+Question area set up and placeholders added
