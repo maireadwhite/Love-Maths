@@ -4,3 +4,4 @@
 "" empty higher level elements added , will add content later
 Buttons added to games area and classed defined
 Question area set up and placeholders added
+Css added using source code provided. Data-types set on buttons.
