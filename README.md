@@ -8,3 +8,4 @@ Css added using source code provided. Data-types set on buttons.
 HTML and CSS complete. Started javascript. Each function should have one main task. Atomic.Single responsibility principle. 
 Set up structure for games functions. 
 Event listeners added to function elements. 
+13/06/22 created code to create two random numbers for num1 and num2
