@@ -29,9 +29,9 @@ runGame("addition");
  * */
 
 function runGame(gameType) {
-    //Creaate two random numbers between 1 and 25//
-    let num1 = Math.floor (Math.random () * 25 ) + 1;
-    let num2 = Math.floor (Math.random () * 25 ) + 1;
+    //Create two random numbers between 1 and 25//
+    let num1 = Math.floor(Math.random () * 25) + 1;
+    let num2 = Math.floor(Math.random () * 25) + 1;
 
     if (gameType === "addition") {
         displayAdditionQueston(num1, num2);
@@ -63,9 +63,7 @@ function displayAdditionQueston(operand1, operand2) {
     //the following interrogates the HTML//
     document.getElementById(`operand1`).textContent = operand1;
     document.getElementById(`operand2`).textContent = operand2;
-    document.getElementById(`operator).textContent = "+";
-
-
+    document.getElementById(`operator`).textContent = "+";
 
 }
 
